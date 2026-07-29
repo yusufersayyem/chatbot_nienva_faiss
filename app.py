@@ -19,9 +19,6 @@ AD_AVATAR = "https://cdn-icons-png.flaticon.com/512/2997/2997311.png"
 
 DB_FAISS_PATH = "vectorstore/db_faiss"
 
-WHATSAPP_DISPLAY = "07719744254"
-WHATSAPP_LINK_NUM = "9647719744254"
-
 # 📢 قاعدة بيانات الإعلانات
 ADS_DATA = [
     {"image": "/content/ads/ad1.webp", "url": "https://voyager.mynu.app/restaurant/675af6c4fc92f8671caef3cc", "title": "مطعم فاخر - عروض خاصة"},

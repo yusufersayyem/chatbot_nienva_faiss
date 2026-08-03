@@ -125,7 +125,7 @@ async def on_message(message: cl.Message):
         cl.user_session.set("response_count", count)
         
         # 🎯 التحقق مما إذا اكتملت 5 إجابات
-        if count % 5 == 0:
+        if count % 2 == 0:
             await send_ad_card()
         
     except Exception as e:

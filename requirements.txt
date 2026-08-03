@@ -1,4 +1,4 @@
-streamlit
+chainlit
 boto3
 langchain==0.3.26;
 langchain-aws
